@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Converter.cs](./CS/MasterExpandButtonDisabling/Converter.cs) (VB: [Converter.vb](./VB/MasterExpandButtonDisabling/Converter.vb))
+* [MainWindow.xaml](./CS/MasterExpandButtonDisabling/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MasterExpandButtonDisabling/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MasterExpandButtonDisabling/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MasterExpandButtonDisabling/MainWindow.xaml))
+* [Task.cs](./CS/MasterExpandButtonDisabling/Task.cs) (VB: [Task.vb](./VB/MasterExpandButtonDisabling/Task.vb))
+<!-- default file list end -->
 # Grid - How to customize the appearance of the master-row expand button
 
 
