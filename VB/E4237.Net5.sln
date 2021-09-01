@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterExpandButtonDisabling", "MasterExpandButtonDisabling\MasterExpandButtonDisabling.csproj", "{B40E5F19-FACA-4755-ACBE-B3EF32E7C28C}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MasterExpandButtonDisabling", "MasterExpandButtonDisabling\MasterExpandButtonDisabling.Net5.vbproj", "{B40E5F19-FACA-4755-ACBE-B3EF32E7C28C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

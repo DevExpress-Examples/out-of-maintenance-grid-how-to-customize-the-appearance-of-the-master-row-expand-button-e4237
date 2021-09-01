@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MasterExpandButtonDisabling", "MasterExpandButtonDisabling\MasterExpandButtonDisabling.vbproj", "{B40E5F19-FACA-4755-ACBE-B3EF32E7C28C}"
 EndProject
 Global
